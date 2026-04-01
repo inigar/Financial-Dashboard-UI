@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* your custom styles */
+.card {
+  @apply p-4 bg-white shadow rounded;
+}
